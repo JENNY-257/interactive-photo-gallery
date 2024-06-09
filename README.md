@@ -1,5 +1,2 @@
 # interactive-photo-gallery
-This project included Three challenges:
-The first challenge:Interactive Photo Gallery
-The second challenge:Array Manipulation
-The third challenge:String Transformation
+This project included Three challenges:Interactive Photo Gallery, Array Manipulation and String Transformation
