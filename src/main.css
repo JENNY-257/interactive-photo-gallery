@@ -35,3 +35,24 @@ img{
 .image-container:hover .hover-link{
     opacity: 1;
 }
+
+@media only screen and (max-width:760px) {
+    .containet{
+        flex-direction: column;
+    }
+    .image-contaner{
+        width: 98.5px;
+        height: 600px;
+        margin-top: 20px;
+    }
+    .hover-link{
+        margin-left: 0;
+    }
+    .image-container:hover img{
+        opacity: 0.1;
+        transition: background-image 0.5s ease-in-out;
+    }
+    .image-container:hover .hover-link{
+        opacity: 1;
+    }
+}
